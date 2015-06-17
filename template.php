@@ -226,6 +226,7 @@ function crescent_breadcrumb($variables) {
       $output = '<nav class="breadcrumb" role="navigation">';
       $output .= '<ol><li>' . implode($breadcrumb_separator . '</li><li>', $breadcrumb) . $trailing_separator . '</li></ol>';
       $output .= '</nav>';
+      // baakjshdjhasgsdjhagd bla bla
     }
   }
 
